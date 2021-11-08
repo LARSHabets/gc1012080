@@ -2,13 +2,6 @@ body{
   background-color: lightblue;
 }
 
- {
-  box-sizing: border-box;
-}
-
- {
-  margin: 0;
-}
 
 
 
@@ -38,10 +31,6 @@ body{
   background-color: #ddd;
   color: black;
 
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-
+ 
   Overmij {color: black;
   }
